@@ -1,0 +1,35 @@
+{
+    "name": "alesostore",
+    "short_name": "alesostore",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "we will help you to get any subscription you want with cheap Price",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/jpg"
+        },
+        {
+            "src": "icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/jpg"
+        },
+        {
+            "src": "icons/web/icons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/jpg",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/jpg",
+            "purpose": "maskable"
+        }
+    ]
+}
